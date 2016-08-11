@@ -1,3 +1,5 @@
 This is much better than vi.
 For real.
 Soooo much better.
+
+There aren't enough lines in this file for me to properly describe how much better Nano is.
